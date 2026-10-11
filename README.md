@@ -216,5 +216,3 @@ Potential next steps include:
 ## Learning Outcomes
 
 This project provides practical experience with API integration, Python data processing, SQL databases, data validation, testing, error handling, logging, automation, and version control.
-
-It serves as an initial portfolio project on the path toward data engineering.
