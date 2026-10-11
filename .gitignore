@@ -1,0 +1,27 @@
+
+# Python virtual environment
+.venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Allow an example configuration file, if you add one
+!.env.example
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Test cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Generated log files
+logs/*.log
